@@ -28,7 +28,7 @@ Place httpd.server.exe in the same folder where you have your web files. Open yo
 Add the filename you want to open. 
 
 In the console:
-:> File exist
-:! File does not exist
+* :> File exist
+* :! File does not exist
 
 To stop the Web Server press the 'Q' key.
