@@ -19,6 +19,8 @@ For building and linking the Windows program icon, run the following command:
 windres app.rc app_icon.o
 ~~~
 
+Create folder /obj.
+
 Then open httpd.gpr in GPS and press F4 to build the executable. It will be available under /web with a simple HTML page.
 
 Use
